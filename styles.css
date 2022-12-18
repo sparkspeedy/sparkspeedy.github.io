@@ -444,19 +444,23 @@ li .description {
 		margin-top: 320px;
 	}
 
-	.card {
+	.card , .card1 {
 		padding: 15px;
 		text-align: left;
 	}
 	.card h2 {
 		font-size: 70px;
 	}
-		.card , .sections {
+	.card1 h2 {
+		font-size: 70px;
+	}
+		.card , .sections , .card1{
 		width: 100%;
 		height: auto;
 		margin: 10px 0;
 		float: left;
 	}
+	
 
 	.timeline{
 		border: none;
@@ -475,7 +479,7 @@ li .description {
 		font-size: 40px;
 	}
 
-	.card , .sections {
+	.card , .sections , .card1 {
 		width: 100%;
 		height: auto;
 		margin: 10px 0;
