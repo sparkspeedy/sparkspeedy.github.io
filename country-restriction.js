@@ -26,7 +26,7 @@ function display_access_denied_error() {
 function block_blacklist_countries() {
     // Blacklist countries
     const blacklist_countries = [
-        "AE", // UAE
+        "PK", // pk
 
     ]
 
